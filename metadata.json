@@ -1,0 +1,6 @@
+{
+  "name": "Eleventh Hour",
+  "description": "A scholarly Catholic prophetic and daily liturgical archive of unfulfilled Old and New Testament prophecies, Marian apparitions, St. Faustina's Diary, Medjugorje secrets, Blessed Anne Catherine Emmerich, Blessed Marie-Julie Jahenny, and daily updated Mass readings, Saint of the Day, and Patristic Gospel commentary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
